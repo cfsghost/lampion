@@ -23,7 +23,6 @@
   },
   "homepage": "https://github.com/cfsghost/lampion#readme",
   "dependencies": {
-    "co": "^4.6.0",
-    "koa": "^1.2.0"
+    "co": "^4.6.0"
   }
 }
