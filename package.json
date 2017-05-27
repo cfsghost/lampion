@@ -1,6 +1,6 @@
 {
   "name": "lampion",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Universal Web Application Integration Framework",
   "main": "./lib/lampion.js",
   "scripts": {
